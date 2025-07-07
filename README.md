@@ -38,5 +38,3 @@ It fetches inspirational quotes from a public API and displays them beautifully 
 
 > ⚠️ This project bypasses SSL checks temporarily for local testing only.  
 > Do not deploy with `NODE_TLS_REJECT_UNAUTHORIZED = "0"` in production.
-
-## 📁 Folder Structure
